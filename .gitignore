@@ -5,3 +5,4 @@ __pycache__/
 .dev-docs/
 .vscode
 tmp.ipynb
+/tmp
